@@ -1,0 +1,9 @@
+c:\users\никита\documents\visual studio 2012\Projects\Warehouse_unit_DBapp\Warehouse_unit_DBapp\bin\Debug\Warehouse_unit_DBapp.exe.config
+c:\users\никита\documents\visual studio 2012\Projects\Warehouse_unit_DBapp\Warehouse_unit_DBapp\bin\Debug\Warehouse_unit_DBapp.exe
+c:\users\никита\documents\visual studio 2012\Projects\Warehouse_unit_DBapp\Warehouse_unit_DBapp\bin\Debug\Warehouse_unit_DBapp.pdb
+c:\users\никита\documents\visual studio 2012\Projects\Warehouse_unit_DBapp\Warehouse_unit_DBapp\obj\Debug\Warehouse_unit_DBapp.csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2012\Projects\Warehouse_unit_DBapp\Warehouse_unit_DBapp\obj\Debug\Warehouse_unit_DBapp.Form1.resources
+c:\users\никита\documents\visual studio 2012\Projects\Warehouse_unit_DBapp\Warehouse_unit_DBapp\obj\Debug\Warehouse_unit_DBapp.Properties.Resources.resources
+c:\users\никита\documents\visual studio 2012\Projects\Warehouse_unit_DBapp\Warehouse_unit_DBapp\obj\Debug\Warehouse_unit_DBapp.csproj.GenerateResource.Cache
+c:\users\никита\documents\visual studio 2012\Projects\Warehouse_unit_DBapp\Warehouse_unit_DBapp\obj\Debug\Warehouse_unit_DBapp.exe
+c:\users\никита\documents\visual studio 2012\Projects\Warehouse_unit_DBapp\Warehouse_unit_DBapp\obj\Debug\Warehouse_unit_DBapp.pdb
